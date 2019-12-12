@@ -1,5 +1,6 @@
 {
 	"author": "Alex Vinall",
+	"description": "Solutions to the FreeCodeCamp APIs and Microservices certification course",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
