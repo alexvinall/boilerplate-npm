@@ -3,6 +3,7 @@
 	"description": "Solutions to the FreeCodeCamp APIs and Microservices certification course",
 	"keywords": [ "API", "microservices", "training", "freecodecamp" ],
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
